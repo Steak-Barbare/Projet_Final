@@ -1,0 +1,1 @@
+<img src="\img\Capturemini.JPG" alt="logoVault" style="border-radius: 15px" >
